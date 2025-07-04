@@ -1,0 +1,35 @@
+{
+  "generic": {
+    "error": "Ha ocurrido un error. Por favor, inténtalo de nuevo más tarde."
+  },
+  "list_controls": {
+    "all": "Todos",
+    "apply": "Aplicar",
+    "clear_all": "Eliminar filtro",
+    "clear_filters": "Eliminar filtros",
+    "filter": "Filtrar",
+    "price": "Precio",
+    "price_high_to_low": "Precio total (de mayor a menor)",
+    "price_low_to_high": "Precio total (de menor a mayor)",
+    "search": "Busca un tratamiento específico...",
+    "sort": "Ordenar por",
+    "view_results": "Ver resultados",
+    "zero_results": "resultados",
+    "multiple_results": "resultados",
+    "one_result": "resultado",
+    "of": "los",
+    "of_results": "resultados",
+    "nb_of_results": "{count} resultado | {count} resultados"
+  },
+  "product_card": {
+    "available_options": "Todas las opciones disponibles",
+    "close": "Cerrar",
+    "last_ordered": "Tu último pedido",
+    "less_info": "Ver menos",
+    "more_info": "Ver más",
+    "previously_ordered": "Pedido previamente",
+    "select": "Seleccionar",
+    "selected": "Seleccionado",
+    "show_details": "Mostrar detalles"
+  }
+}

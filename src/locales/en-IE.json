@@ -1,0 +1,49 @@
+{
+  "list_controls": {
+    "all": "All",
+    "apply": "Apply",
+    "clear_all": "Clear filter",
+    "clear_filters": "Clear filters",
+    "displayed_results": "{displayed} of {total} results",
+    "filter": "Filter",
+    "multiple_results": "results",
+    "name_asc": "Name, A-Z",
+    "name_desc": "Name, Z-A",
+    "nb_of_results": "{count} result | {count} results",
+    "of": "of",
+    "zero_results": "results",
+    "search": "Search for a specific option...",
+    "price": "Price",
+    "sort": "Sort by",
+    "price_high_to_low": "Total price (high to low)",
+    "price_low_to_high": "Total price (low to high)",
+    "view_results": "View results",
+    "one_result": "result",
+    "of_results": "results",
+    "price_desc": "Total price (high to low)",
+    "price_asc": "Total price (low to high)"
+  },
+  "product_card": {
+    "available_options": "All available options",
+    "close": "Close",
+    "last_ordered": "Your last order",
+    "less_info": "Less info",
+    "more_info": "More info",
+    "previously_ordered": "Previously Ordered",
+    "select": "Select",
+    "selected": "Selected",
+    "show_details": "Show details"
+  },
+  "product_group_card": {
+    "excluded_items_by_filter": "+ {count} other item excluded by filtering | + {count} other items excluded by filtering",
+    "filtered_items": "Showing items excluded by filtering",
+    "out_of_stock": "Out of stock",
+    "price_from": "from",
+    "select_and_continue": "Select and continue",
+    "show_all": "Show All",
+    "show_filtered_only": "Show only filtered items",
+    "treatment_details": {
+      "nav": "See treatment details"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "phrase-pull",
+  "version": "1.0.0",
+  "main": "dist/src/main.js",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.10"
+  },
+  "dependencies": {
+    "glob": "^11.0.3",
+    "phrase-js": "^3.3.0"
+  }
+}

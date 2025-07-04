@@ -1,0 +1,55 @@
+{
+  "list_controls": {
+    "search": "Search for a specific option...",
+    "filter": "Filter",
+    "price": "Price",
+    "sort": "Sort by",
+    "price_high_to_low": "Total price (high to low)",
+    "apply": "Apply",
+    "price_low_to_high": "Total price (low to high)",
+    "view_results": "View results",
+    "clear_filters": "Clear filters",
+    "multiple_results": "results",
+    "zero_results": "results",
+    "one_result": "result",
+    "all": "All",
+    "of": "of",
+    "of_results": "results",
+    "clear_all": "Clear filter",
+    "displayed_results": "{displayed} of {total} results",
+    "name_asc": "Name, A-Z",
+    "name_desc": "Name, Z-A",
+    "price_desc": "Total price (high to low)",
+    "price_asc": "Total price (low to high)",
+    "nb_of_results": "{count} result | {count} results"
+  },
+  "product_card": {
+    "less_info": "Less info",
+    "more_info": "More info",
+    "select": "Select",
+    "selected": "Selected",
+    "close": "Close",
+    "previously_ordered": "Previously Ordered",
+    "show_details": "Show details",
+    "available_options": "All available options",
+    "last_ordered": "Your last order"
+  },
+  "generic": {
+    "error": "Something went wrong. Please try again later."
+  },
+  "product_group_card": {
+    "price_from": "from",
+    "select_and_continue": "Select and continue",
+    "out_of_stock": "Out of stock",
+    "treatment_details": {
+      "nav": "See Treatment Details",
+      "selected_treatment": "Selected treatment",
+      "more_info": "More information",
+      "confirm_selection": "Confirm and go to delivery"
+    },
+    "show_all": "Show All",
+    "filtered_items": "Showing items excluded by filtering",
+    "show_filtered_only": "Show only filtered items",
+    "excluded_items_by_filter": "+ {count} other item excluded by filtering | + {count} other items excluded by filtering"
+  }
+}
