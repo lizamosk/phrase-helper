@@ -1,7 +1,0 @@
-phrase:
-  pull:
-    targets:
-      - file: ./src/locales/<locale_name>.json
-        project_id: 665ad61070232615f9412e535096c361
-        params:
-          file_format: nested_json
